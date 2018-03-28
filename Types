@@ -1,4 +1,4 @@
-1-) Factorial designs: consists of two or more independent variables and - for now - one dependent variable. The independent variables are crossed, to ensure that all cells are represented in the study and that each cell contains enough participants.Factorial designs are very useful because they allow us to investigate not only the main effects of several factors, but also the combined effects, or interaction effects.
+A-) Factorial designs: consists of two or more independent variables and - for now - one dependent variable. The independent variables are crossed, to ensure that all cells are represented in the study and that each cell contains enough participants.Factorial designs are very useful because they allow us to investigate not only the main effects of several factors, but also the combined effects, or interaction effects.
 
 I-) The effects of the factors separately are called main effects.
 
@@ -7,7 +7,7 @@ II-) When the number of factors increases the design becomes very complicated ve
 III-) There are even more complicated factorial designs, called incomplete designs where not all combinations of levels of the factors, or cells, are actually present in the design.
 
 
-2-) Repeated measures: is used as a synonym for a within subjects design, but is also used to refer to more complex designs with at least one within factor and possibly one or more between factors.
+B-) Repeated measures: is used as a synonym for a within subjects design, but is also used to refer to more complex designs with at least one within factor and possibly one or more between factors.
 
 I-) The concept of a within factor is closely related to the terms repeated measure design and longitudinal design. Both terms refer, obviously, to studies where the dependent variable is measured repeatedly. For example: In a within subjects design, the same participants are measured on the dependent variable after being exposed to each level of the independent variable. Otherwise we wouldn't know what the effect of each level or condition is.
 
@@ -21,7 +21,7 @@ ii-)Repeated measure designs: measure repeatedly, but run shorter and refer to s
 iii-) The term within-subjects design is generally used to indicate a design consisting of within factors only. 
 
 
-3-) Manipulation:  refers to control over the independent variable. For example: in a true experiment the value or level of the independent variable that a participant experiences, is determined - or manipulated - by the researcher.
+C-) Manipulation:  refers to control over the independent variable. For example: in a true experiment the value or level of the independent variable that a participant experiences, is determined - or manipulated - by the researcher.
 
 I-) Helps to control external variables by keeping variables of disinterest constant you can rule out any alternative explanations they might have otherwise provided.
 
@@ -49,4 +49,56 @@ X-) Variables that are held constant are called control variables.
 
 RESUME: Manipulation is about creating different levels or conditions that represent different values of the independent variable. Effectiveness of a manipulation can be assessed using a manipulation check. Control means keeping external variables the same across conditions. For individual differences variables manipulation or experimental control is not possible. 
 
+
+D-) Lab vs. field: manipulation of the independent variable and control of extraneous variables, keeping them all the same across conditions.
+
+I-)  Large amount of control.
+
+II-) Control over the setting and circumstances under which the research is conducted. 
+
+III-) The experimental method combined with the control that a lab setting offers, maximizes internal validity.
+
+IV-) High internal validity, but some argue that it has low ecological validity or mundane realism, refers to how closely the
+lab setting approximates how people would naturally experience a phenomenon.
+
+V-) Experimental realism: find a experimental translation of the phenomenon as it occurs naturally.
+
+OBSERVATION:
+
+The experimental translation might be very different from what happens in ‘real life’, but that doesn’t mean that within the lab setting, the construct isn’t adequately manipulated or measured and that the lab results won’t generalize to other, more ‘natural’ instances of the investigated relationship.
+
+Maximizing internal validity and the maximizing external validity
+
+
+E-) Randomization: random assignment, provides a way of eliminating all possible systematic differences between conditions all at once. 
+
+I-) No systematic difference between the groups other than on the independent variable. 
+
+II-) The problem is that the groups are not of equal size, which is a nuisance statistically speaking
+
+OBSERVATION:
+
+i-) You can measure relevant background or control variables and simply check to see whether randomization worked and the conditions are the same, or whether randomization failed and the conditions differ on these variables.
+
+ii-) There is a way to guarantee randomization works on a select set of variables, by using
+restricted randomization procedures. B
+
+iii-) blocking is the simplest form of restricted
+randomization once It ensures equal or almost equal group sizes also equal representation of a specific subject characteristic, for
+example equal numbers of boys and girls in each group.
+
+OBSERVATION II:
+Of course stratified randomization has its limits, you can apply it to several characteristics combined, sex and age for example, but with more than two or three variables to stratify on, things become complicated. Moreover, there’s an endless number of subject characteristics, it’s impossible to control them all.
+
+I have one final remark about randomization in repeated measures designs, concerning
+within-subjects designs, where all subjects are exposed to all of the conditions. In this
+case randomization might seem unnecessary, but this is not the case!
+
+If all subjects are exposed to the conditions in the same order, then any effect could be
+explained by maturation, or some sort of habituation effect that spills over from one
+condition to the other.
+So in within-subjects designs, the order in which subjects are exposed to the conditions
+should be randomized. We call this counterbalancing. Subjects are assigned to one out
+of all possible orderings of the conditions, possibly using blocking to ensure that no one
+ordering is overrepresented.
 
