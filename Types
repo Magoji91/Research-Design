@@ -1,4 +1,4 @@
-A-) Factorial designs: consists of two or more independent variables and - for now - one dependent variable. The independent variables are crossed, to ensure that all cells are represented in the study and that each cell contains enough participants.Factorial designs are very useful because they allow us to investigate not only the main effects of several factors, but also the combined effects, or interaction effects.
+1-) Factorial designs: consists of two or more independent variables and - for now - one dependent variable. The independent variables are crossed, to ensure that all cells are represented in the study and that each cell contains enough participants.Factorial designs are very useful because they allow us to investigate not only the main effects of several factors, but also the combined effects, or interaction effects.
 
 I-) The effects of the factors separately are called main effects.
 
@@ -7,7 +7,7 @@ II-) When the number of factors increases the design becomes very complicated ve
 III-) There are even more complicated factorial designs, called incomplete designs where not all combinations of levels of the factors, or cells, are actually present in the design.
 
 
-B-) Repeated measures: is used as a synonym for a within subjects design, but is also used to refer to more complex designs with at least one within factor and possibly one or more between factors.
+2-) Repeated measures: is used as a synonym for a within subjects design, but is also used to refer to more complex designs with at least one within factor and possibly one or more between factors.
 
 I-) The concept of a within factor is closely related to the terms repeated measure design and longitudinal design. Both terms refer, obviously, to studies where the dependent variable is measured repeatedly. For example: In a within subjects design, the same participants are measured on the dependent variable after being exposed to each level of the independent variable. Otherwise we wouldn't know what the effect of each level or condition is.
 
@@ -21,6 +21,32 @@ ii-)Repeated measure designs: measure repeatedly, but run shorter and refer to s
 iii-) The term within-subjects design is generally used to indicate a design consisting of within factors only. 
 
 
+3-) Manipulation:  refers to control over the independent variable. For example: in a true experiment the value or level of the independent variable that a participant experiences, is determined - or manipulated - by the researcher.
 
+I-) Helps to control external variables by keeping variables of disinterest constant you can rule out any alternative explanations they might have otherwise provided.
+
+II-) The term 'levels' nicely indicates that the independent variable is present in different ways or to different degrees in these three settings.
+
+III-) Terms are 'conditions' and 'groups'. If the independent variable is
+absent this level is called the control condition or control group. 
+
+IV-) Experimental variable: independent variable fully controlled by the researcher. 
+
+V-) Individual difference variables:  variables that cannot be manipulated because they are an intrinsic property of the participant. For example: Properties like age or gender, for example, are not under the researchers control. 
+
+VI -) However, some variables that seem like non-manipulable, individual difference
+variables can be manipulated. 
+
+VII-) It is important to realize that manipulation can fail. 
+
+VIII-) You can check whether the intended level of the independent variable was actually experienced, by measuring it. This is referred to
+as a manipulation check. It is important to perform this check, this measurement after measuring the dependent, effect variable. Otherwise you might give away the purpose of the experiment.
+
+IX) “Ceteris Paribus” principle. It means “all other things equal”. If you find an effect - a difference between
+conditions on the dependent variable - then you can assume this effect is caused by the independent variable.
+
+X-) Variables that are held constant are called control variables. 
+
+RESUME: Manipulation is about creating different levels or conditions that represent different values of the independent variable. Effectiveness of a manipulation can be assessed using a manipulation check. Control means keeping external variables the same across conditions. For individual differences variables manipulation or experimental control is not possible. 
 
 
