@@ -1,8 +1,8 @@
 # Research-Design
 
 
-CONCEPT
-Experimental research projects aim to prove the hypotheses that affirm a causal relationship, but are very susceptible to alternative explanations that threaten its internal validity.
+CONCEPT:
+Experimental research projects aim to prove the hypotheses that affirm a causal relationship, but they are very susceptible to alternative explanations that threaten its internal validity.
 
 Such experimental designs, which seek to maximize internal validity, are called randomized control or RCT trials. They have as characteristics: manipulation, comparison and random assignment.
 
