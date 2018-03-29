@@ -88,3 +88,73 @@ iii-) blocking is the simplest form of restricted randomization once It ensures 
 Subjects are assigned to one out of all possible orderings of the conditions, possibly using blocking to ensure that no one ordering is overrepresented.
 
 
+F-) Experimental designs: maximize internal validity with: manipulation of the independent variable, comparison between conditions exposed to different levels of the independent variable and of course random assignment to these conditions.
+
+APPLICATION: The simplest design is the two-group design. Participants are randomly assigned to one of two conditions, usually an
+experimental condition where the hypothesized cause is present and a control condition where it's absent. The independent variable could also differ between the conditions in amount or kind,
+
+OBSERVATION:
+I-) In the two-group design the dependent variable is measured after exposure to the independent variable to assess the difference between conditions, which are likely to be similar in all respects due to the random Assignment, including their pre-existing position on the dependent variable.
+
+II-) Of course in small groups, randomization doesn't always work. In such cases it might be wise to use a two-group pretest/posttest design, which adds a pretest of the dependent variable before exposure to the independent variable. 
+
+III-) With a pretest you can check whether for example both groups of boys were equally proficient at math before being exposed to a female versus a male math teacher for a month. This is an possible threat to internal validity.
+
+IV-) A pretest also allows the researcher to compare the size of the increase or decrease in scores in the experimental and control condition.
+
+V-) Unfortunately a pretest can sometimes sensitize participants. The pretest may result in a practice effect, leading to higher scores on the posttest or it may alert participants to the purpose of the study. Especially if this effect is stronger for one of the conditions internal validity will be negatively affected. But there is a way to take such unwanted effects of a pretest into account by using a Solomon four-group design. 
+
+VI-)  Solomon four-group design: way to take such unwanted effects of a pretest into account by using a gn. This is a
+combination of the two-group design and the two-group pretest/posttest design. The experimental and control condition are run twice, once with a pretest and once without.
+
+VII-) With the results of the pretest groups we could come up with a better, more difficult test, showing differences between the two pretest groups and two non-pretest groups in a follow-up study.
+
+VIII-) The only thing that is really different to the previous, between-subjects designs is that the random assignment of participants is not to the conditions themselves, because they experience all of them, but to the order in which the conditions are experienced.
+
+
+G-) Matching: When random assignment is impossible, one way to mitigate the selection threat to internal validity is to match participants on relevant background variables. 
+
+APPLICATION: 
+
+I-) Find matching groups on these variables and discard participants that do not match up. 
+
+II-) Start with groups of equal ability because the relation between the matching variable and dependent variable has to be very strong, because they measure the same propert
+
+III-) Use a pretest of cognitive ability to select comparable disadvantaged and advantaged toddlers. The pretest - is related to the independent variable, advantaged versus disadvantaged background. It is likely that 'in real life' children who lack stimulation and security - whether through nature or nurture - already have lower cognitive abilities.
+
+OBSERVATION: 
+
+i-) A potential danger in the use of matching though! A thing called undermatching could occur. This can happen when the conditions are matched on a variable that is measured with some degree of error and is related to the variables of interest. To understand what this means and how undermatching can occur you first need to understand what regression to the mean is.
+
+ii-) Matching is only a problem if the variable that we match on is related to our variables of interest. 
+
+iii-) If these groups differ in cognitive ability and we select a sample of toddlers from the disadvantaged and the advantaged group so that they have about the same cognitive ability that means you choose disadvantages toddlers with relatively high scores, relative to the mean score of their group and advantaged children with relatively low scores, relative to the mean score of their group.
+
+iv-) So without any intervention you would already expect a difference between these groups on the post-test, based on just the regression to the mean effect. 
+
+v-) This distorting effect of regression to the mean due to matching, showing a detrimental effect instead of the hypothesized beneficial effect is called undermatching. Now this effect can only occur if the matching variable is related to the variables of interest and is measured with a fair amount of error - which is unfortunately the case for most social and psychological variables. This of course does not apply to variables like age, sex and educational level, which can be assessed without, well almost without, measurement error.
+
+H-) Quasi-experimental designs: look and feel like experimental designs but they always lack the key feature of random assignment. They can lack the feature of manipulation and comparison as well. Like a true experiment, a quasi-experiment is generally used to demonstrate a causal relationship. 
+
+APPLICATION: 
+
+I-) Cases where the researcher can manipulate the independent variable but is unable to assign people randomly due to practical or ethical reasons.
+
+II-) Cases where the independent variable is an individual differences variable and can’t be manipulatedO or it's a variable that happens 'naturally' to some people and notothers, like a traumatic war experience. Some people refer to studies that employ these
+types of independent variables as ‘natural experiments’.
+
+III-) When the independent variable can be manipulated or 'selected', conditions can be compared. The simplest design at our disposal in that case is the static group comparison design. This design is similar to the two-group experimental design with just a posttest after exposure to the independent variable.
+
+IV-) The only difference is non-random assignment, which means the selection threat to internal validity is always present. The comparison of groups lessens the threats of maturation and history. But it is very well possible that a pre-existing difference between conditions on the dependent variable exists. 
+
+V-) If you can determine whether there were any pre-existing differences on the dependent variable. If you can show that such differences don’t exist, you've firmly disambiguated the causal order. you can also assess the size of any maturation effects.
+
+OBSERVATION: 
+
+i-) Unfortunately it’s not always possible to use a control group. In that case the only thing you can do is at least establish temporal precedence of the cause by using a one-grouppretest/posttest design. All the other threats to internal validity still apply though.
+
+ii-) Interrupted time-series design:  improve on the one group pretest/posttest design including more measurements of the dependent variable before and after exposure to the independent variable. 
+
+iii-) More observations before and after the ‘treatment’ allow you to assess any natural change in the dependent variable. If the change is gradual with a sudden jump from just before to just after the ‘treatment’, we can rule out - at least to some extent - the threats of maturation and history.
+
+iv-) One way to check whether there truly is an effect and not a history effect is to use a replicated interrupted time-series design. This design adds a second group of participants for whom the dependent variable is measured at the same time points, but no ‘treatment‘ is administered. This is basically a more complicated version of the pretest/posttest nonequivalent control group design. Consider this outcome: if we see the same pattern for the second group there’s probably a history threat present. The design could also be implemented by exposing a second group to the same ‘treatment’ but at a different time than the first group. Consider this outcome: if the effect also shows if the intervention is presented just a little bit later, we can be more sure what was actually cause. 
